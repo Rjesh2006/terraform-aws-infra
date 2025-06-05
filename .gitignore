@@ -1,0 +1,23 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+terraform.tfstate.d/
+
+# Terraform cache
+.terraform/
+
+# Sensitive variable files
+*.tfvars
+
+# SSH keys
+local-terra-key
+local-terra-key.pub
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Misspelled output dirs
+output/
+ouput/
