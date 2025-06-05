@@ -50,3 +50,8 @@ The repository is organized into multiple directories and configuration files to
 - **Automation:** Includes scripts for configuration management like Nginx setup on EC2 for testing deployments. 🤖  
 
 ---
+
+### 🔄 Update to be continued... 🚧
+
+More modules, features, and improvements will be added regularly to enhance automation, scalability, and usability. Stay tuned!
+
