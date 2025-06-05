@@ -1,3 +1,13 @@
+
+
+
+![Screenshot from 2025-06-05 22-02-43](https://github.com/user-attachments/assets/fa1559c2-f00e-447b-a47a-715ad950bcfc)
+
+
+
+
+
+
 # 🚀 Terraform AWS Infrastructure Automation
 
 This repository contains a **modular and well-structured Terraform project** designed for automating AWS infrastructure deployment. It follows Infrastructure as Code (IaC) best practices, enabling scalable, manageable, and repeatable cloud resource provisioning. 🌩️
